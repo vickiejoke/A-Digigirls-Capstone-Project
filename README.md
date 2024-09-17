@@ -6,6 +6,7 @@ This project presents a comprehensive sales analysis capstone project I did duri
 ## Project Highlights
 
 The **Sales Dashboard** is designed to provide a high-level overview and detailed breakdowns of key business metrics, enabling decision-makers to track sales performance across multiple dimensions.
+![caps](https://github.com/user-attachments/assets/fceab375-a4c5-4610-918b-16865c29c29e)
 
 ## Methodology
 
@@ -28,28 +29,21 @@ The cleaned dataset was imported into Power BI, where further transformations we
 - **Calculated Columns**: New columns were created in Power BI to calculate metrics like profit, profit margin, and year-over-year sales growth.
 - **Data Relationships**: Relationships between various data tables (e.g., sales, products, regions) were established to allow for multi-dimensional analysis.
 
-### 4. Visualization Development
-The dashboard was designed to be interactive and user-friendly:
-- **Filters**: Filters for region, country, product category, and sales channel were added to allow users to customize their view of the data.
-- **Visual Elements**: Bar charts, line graphs, pie charts, and tables were used to present the data in a visually appealing and easily digestible format.
 ### Key Metrics:
 1. **Total Cost**: 
    - Represents the cumulative cost of goods sold and associated operational expenses.
-   - In this analysis, the total cost is **9bn**, reflecting the investment required for producing and distributing 50M units of products globally.
+   - In this analysis, the total cost is **9 Billion**, reflecting the investment required for producing and distributing 50M units of products globally.
 
 2. **Total Profit**:
    - Calculated as the difference between total revenue and total costs.
-   - The dashboard shows a total profit of **4bn**, indicating that the business has generated a solid margin over its operational costs. This profit is derived from the sales of various product lines across multiple regions.
+   - The dashboard shows a total profit of **4 Billion**, indicating that the business has generated a solid margin over its operational costs. This profit is derived from the sales of various product lines across multiple regions.
 
 3. **Units Sold**:
    - Tracks the total number of items sold across all regions and channels.
-   - The dashboard records **50M units sold**, highlighting significant market penetration, especially in high-demand regions like North America and Europe.
+   - The dashboard records **50 Million units sold**, highlighting significant market penetration, especially in high-demand regions like North America and Europe.
 
 4. **Profit Margin**:
-   - Profit margin is a critical indicator of overall efficiency and profitability. It is calculated as:  
-     \[
-     \text{Profit Margin} = \left( \frac{\text{Total Profit}}{\text{Total Revenue}} \right) \times 100
-     \]
+   - Profit margin is a critical indicator of overall efficiency and profitability.
    - The current profit margin stands at **29.63%**, reflecting strong financial performance and efficient cost management.
 
 ### Additional Metrics:
@@ -65,12 +59,6 @@ The dashboard was designed to be interactive and user-friendly:
 - **Revenue by Product Category**: A table summarizing revenue by different product categories, such as baby food, cosmetics, household items, etc.
 - **Top 5 and Bottom 5 Countries by Revenue**: Comparative bar charts displaying the countries with the highest and lowest sales revenue.
 
-## Tools & Technologies
-
-- **Power BI**: Used to develop the interactive dashboard and perform advanced data visualizations.
-- **Excel**: The raw sales data was cleaned, standardized, and prepared using Excel prior to importing into Power BI for analysis.
-
-
 ## Insights from the Dashboard
 
 The dashboard provides key insights into:
@@ -79,17 +67,10 @@ The dashboard provides key insights into:
 - **Product Analysis**: Understanding which product categories drive the most revenue helps in inventory and marketing optimization.
 - **Sales Channels**: Analysis of online vs offline sales performance helps allocate resources to the most profitable channels.
 
-## Future Work
-
-To enhance this project, potential improvements include:
-- **Real-Time Data Integration**: Automating the data import process for real-time dashboard updates.
-- **Customer Segmentation**: Adding customer demographic data to the analysis for more personalized insights.
-- **Predictive Analysis**: Incorporating machine learning models to predict future sales trends based on historical data.
-
 ## Contact Information
 
 For inquiries or further information, feel free to reach out:
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/victoria-ojubuyi-02a78b22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email**: [Contact me via email](victoriaayoojubuyi@gmail.com)
 
