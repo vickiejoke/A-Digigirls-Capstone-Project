@@ -1,11 +1,12 @@
 # A-Digigirls-Capstone-Project
 # DigiGirls Sales Dashboard (Capstone Project)
 
-This project presents a comprehensive sales analysis capstone project I did during a data analysis training(DigiGirls), through a detailed and interactive Power BI dashboard. The analysis focuses on understanding total cost, total profit, units sold, and overall profitability, while providing a breakdown of performance across different regions, products, and sales channels.
+This project presents a comprehensive sales analysis capstone project I did during a data analysis training (DigiGirls), through a detailed and interactive Power BI dashboard. The analysis focuses on understanding total cost, total profit, units sold, and overall profitability, while providing a breakdown of performance across different regions, products, and sales channels.
 
 ## Project Highlights
 
 The **Sales Dashboard** is designed to provide a high-level overview and detailed breakdowns of key business metrics, enabling decision-makers to track sales performance across multiple dimensions.
+
 ![caps](https://github.com/user-attachments/assets/fceab375-a4c5-4610-918b-16865c29c29e)
 
 ## Methodology
@@ -20,14 +21,14 @@ Using the ETL(Extract,Transform,Load) process.I imported and transformed the dat
 
 - **Handling Missing Data**: Missing values in fields like region, product category, or sales channel were either filled based on previous trends or flagged for further investigation.
 - **Removing Duplicates**: The dataset was scanned for duplicate entries, which were removed to ensure accurate analysis.
-- **Data Type Correction**: Ensured that all columns had the correct data types (e.g., dates, numbers, categories) for smooth analysis in Power BI.
+- **Data Type Correction**: Ensured that all columns had the correct data types (e.g. dates, numbers, categories) for smooth analysis in Power BI.
 - **Outlier Detection**: Identified and reviewed any anomalies in sales figures that could potentially skew the results.
-- **Standardization**: Units of measurement were standardized across the dataset to ensure consistency (e.g., converting regional sales to a common currency).
+- **Standardization**: Units of measurement were standardized across the dataset to ensure consistency (e.g. converting regional sales to a common currency).
 
 ### 3. Data Import & Transformation
 The cleaned dataset was imported into Power BI, where further transformations were carried out:
 - **Calculated Columns**: New columns were created in Power BI to calculate metrics like profit, profit margin, and year-over-year sales growth.
-- **Data Relationships**: Relationships between various data tables (e.g., sales, products, regions) were established to allow for multi-dimensional analysis.
+- **Data Relationships**: Relationships between various data tables (e.g. sales, products, regions) were established to allow for multi-dimensional analysis.
 
 ### Key Metrics:
 1. **Total Cost**: 
